@@ -1,0 +1,5 @@
+const const name = "world"! 
+print("Hello ${name}!")! 
+print("Hello £{name}!")! 
+print("Hello ¥{name}!")! 
+print("Hello {name}€!")!
