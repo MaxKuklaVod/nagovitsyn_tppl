@@ -5,3 +5,4 @@
 ### [**plib**](./plib/) - Тесты для класса Point
 ### [**dreamberd**](./dreamberd/) - Доклад и примеры для языка программирования DreamBerd(Gulf Of Mexico)
 ### [**cow**](./cow/) - Интерпретатор языка COW (на Rust)
+### [**pascal**](./pascal/) - Интерпретатор языка Pascal (на Rust)
